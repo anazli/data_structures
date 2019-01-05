@@ -1,2 +1,2 @@
 # data_structures
-Some common data structures in C++.
+Some basic data structures in C++.
